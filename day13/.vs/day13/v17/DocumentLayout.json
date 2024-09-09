@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QTA\\day13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D436E19-632C-4215-B246-3A254743180A}|day13.vcxproj|D:\\QTA\\day13\\day13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D436E19-632C-4215-B246-3A254743180A}|day13.vcxproj|solutionrelative:day13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "day13.cpp",
+              "DocumentMoniker": "D:\\QTA\\day13\\day13.cpp",
+              "RelativeDocumentMoniker": "day13.cpp",
+              "ToolTip": "D:\\QTA\\day13\\day13.cpp",
+              "RelativeToolTip": "day13.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T06:07:14.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
