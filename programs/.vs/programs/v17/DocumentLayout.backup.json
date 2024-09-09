@@ -3,9 +3,6 @@
   "WorkspaceRootPath": "D:\\QTA\\programs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QTA\\1STPROGRAM\\qta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QTA\\programs\\programs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:programs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -22,26 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "qta.cpp",
-              "DocumentMoniker": "D:\\QTA\\1STPROGRAM\\qta.cpp",
-              "RelativeDocumentMoniker": "..\\1STPROGRAM\\qta.cpp",
-              "ToolTip": "D:\\QTA\\1STPROGRAM\\qta.cpp",
-              "RelativeToolTip": "..\\1STPROGRAM\\qta.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-28T10:10:06.38Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "programs.cpp",
               "DocumentMoniker": "D:\\QTA\\programs\\programs.cpp",
               "RelativeDocumentMoniker": "programs.cpp",
               "ToolTip": "D:\\QTA\\programs\\programs.cpp",
               "RelativeToolTip": "programs.cpp",
-              "ViewState": "AgIAABUBAAAAAAAAAAAAAB4BAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAAAEoBAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-28T09:38:27.341Z",
               "EditorCaption": ""

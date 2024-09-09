@@ -6,56 +6,60 @@ using namespace std;
 
 
 //Largest prime number under the given value - 1
-
-//int main() {
-//	int n;
+//void largestprime(int n) {
 //	int flag = 0;
-//	cout << "Enter a value : ";
-//	cin >> n;
 //	if (n <= 2) {
 //		cout << "No prime number";
 //	}
-//    for (int i = n - 1;i>=2; i--) {
+//	for (int i = n - 1; i >= 2; i--) {
 //		flag = 0;
-//		for (int j = 2; j <i; j++) {
-//			if (i % j ==0) {
+//		for (int j = 2; j < i; j++) {
+//			if (i % j == 0) {
 //				flag = 1;
 //				break;
-//			}	
+//			}
 //		}
-//		
+//
 //		if (flag == 0) {
 //			cout << i;
 //			break;
 //		}
-//	
 //
-//		
-//		
+//
+//
+//
 //	}
+//}
+//int main() {
+//	int n;
+//	
+//	cout << "Enter a value : ";
+//	cin >> n;
+//
+//	largestprime(n);
 //}
 
 //--------------------------------------------------------------------------------------------------
 
 //Sum of digits -2
 
-int sum(int num) {
-	int sum = 0;
-	while (num != 0) {
-		sum = sum + num % 10;
-		num = num / 10;
-	}
-	return sum;
-}
-
-int main() {
-	int num;
-
-	cout << "Enter a number: ";
-	cin >> num;
-	int total=sum(num);
-	cout << "Sum of digits is : " << total;
-}
+//int sum(int num) {
+//	int sum = 0;
+//	while (num != 0) {
+//		sum = sum + num % 10;
+//		num = num / 10;
+//	}
+//	return sum;
+//}
+//
+//int main() {
+//	int num;
+//	
+//	cout << "Enter a number: ";
+//	cin >> num;
+//	int total=sum(num);
+//	cout << "Sum of digits is : " << total;
+//}
 
 //--------------------------------------------------------------------------------------------------
 
@@ -63,18 +67,22 @@ int main() {
 
 //Sum of seires-3
 
-
-
-//int main() {
-//	int n;
+//void sumofseries(int n) {
 //	int sum = 0;
-//	cout << "Enter a number : ";
-//	cin >> n;
 //	for (int i = 1; i <= n; i++) {
 //		cout << i << "*" << i << "=" << i * i << endl;
 //		sum = sum + (i * i);
 //	}
-//	cout << "Sum of the series till " << n << " is : " << sum;
+//	
+//};
+//
+//int main() {
+//	int n;
+//	
+//	cout << "Enter a number : ";
+//	cin >> n;
+//	sumofseries(n);
+//	
 //}
 
 //--------------------------------------------------------------------------------------------------
@@ -84,30 +92,35 @@ int main() {
 
 //Sum of series - 4
  
- 
-
-//int main() {
-//	int n;
+//int sumofseries(int n) {
 //	int sum = 0;
-//	cout << "Enter a number : ";
-//	cin >> n;
 //	for (int i = 1; i <= n; i++) {
 //		int sum1 = 0;
 //		for (int j = 1; j <= i; j++) {
-//			
-//			
+//
+//
 //			cout << j;
-//				if (j < i) {
-//					cout << "+" ;
-//				}
-//				
-//				sum1 = sum1 + j;//sum for each line
+//			if (j < i) {
+//				cout << "+";
+//			}
+//
+//			sum1 = sum1 + j;//sum for each line
 //			sum = sum + j;//overall sum
 //		}
 //		cout << "=" << sum1;
 //		cout << endl;
 //	}
-//		cout << "Sum of the series till " << n << " is : " << sum;
+//	return sum;
+// }
+
+//int main() {
+//	int n;
+//	
+//	cout << "Enter a number : ";
+//	cin >> n;
+//	int a =sumofseries(n);
+//	
+//		cout << "Sum of the series till " << n << " is : " << a;
 //	}
 
 //-----------------------------------------------------------------------------------------------------
@@ -117,29 +130,33 @@ int main() {
 
 //non prime number from 1 to upperbound - 5
  
-
-
-//int main() {
-//	int uppbound;
-//	int flag = 0;
-//	cout << "Enter the upperbound: ";
-//	cin >> uppbound;
-//	/*if (uppbound > 1) {
-//		cout << "1 ";
-//	}*/
-//
-//	for (int i = 4; i <uppbound; i++) {
-//		flag = 0;
+//void nonprime(int uppbound) {
+//	for (int i = 4; i < uppbound; i++) {
+//		int flag = 0;
 //		for (int j = 2; j < i; j++) {
 //			if (i % j == 0) {
 //				flag = 1;
 //				break;
 //			}
+//			
 //		}
 //		if (flag == 1) {
-//			cout << i << " ";
+//			cout << i<<" ";
 //		}
 //	}
+//}
+//
+//int main() {
+//	int uppbound;
+//	int flag = 0;
+//	cout << "Enter the upperbound: ";
+//	cin >> uppbound;
+//	nonprime(uppbound);
+//
+//	/*if (uppbound > 1) {
+//		cout << "1 ";
+//	}*/
+//
 //}
 
 //-------------------------------------------------------------------------------------
@@ -147,27 +164,39 @@ int main() {
 
 //Sum of series-6
 
+int  sumofseries(int num) {
+	int a = 9;
+	int sum = 0;
+	for (int i = 1; i <= num; i++) {
+		cout << a;
+		sum = sum + a;
+		a = a * 10 + 9;
+		if (i < num) {
+			cout << "+";
+		}
+	}
+	return sum;
+}
 
+int main() {
+	int n;
+	
+	cout << "Enter a number : ";
+	cin >> n;
+	int sum = sumofseries(n);
+	/*int num = 9;
+		for (int i = 1; i <= n; i++) {
+			cout << num;
 
-//int main() {
-//	int n;
-//	int sum = 0;
-//	
-//	cout << "Enter a number : ";
-//	cin >> n;
-//	int num = 9;
-//		for (int i = 1; i <= n; i++) {
-//			cout << num;
-//
-//			sum = sum + num;
-//			num = num * 10 + 9;
-//			if (i < n) {
-//				cout << " + ";
-//			}
-//		}
-//	cout << endl;
-//	cout << "Sum of the series for n = "  << n << " is : " << sum;
-//}
+			sum = sum + num;
+			num = num * 10 + 9;
+			if (i < n) {
+				cout << " + ";
+			}
+		}*/
+	cout << endl;
+	cout << "Sum of the series for n = "  << n << " is : " << sum;
+}
 //-------------------------------------------------------------------------------------------
 
 

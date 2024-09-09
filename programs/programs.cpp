@@ -3,15 +3,11 @@ using namespace std;
 
 //palindrome or not-(1)
 
-
-//int main() {
-//	int a;
-//	cout << "Enter a number: "<<endl;
-//	cin >> a;
-//	int rev=0;
+//void palindrome(int a) {
+//	int rev = 0;
 //	int num = a;
 //	while (num != 0) {
-//		rev = rev*10 + num % 10;
+//		rev = rev * 10 + num % 10;
 //		num = num / 10;
 //
 //	}
@@ -21,6 +17,13 @@ using namespace std;
 //	else
 //		cout << "Not Palindrome";
 //}
+//int main() {
+//	int a;
+//	cout << "Enter a number: "<<endl;
+//	cin >> a;
+//	palindrome(a);
+//	
+//}
 
 //---------------------------------------------------------------------------------------------------------
 
@@ -28,17 +31,20 @@ using namespace std;
 
 
 //alphabet or not-(2)
-
-
-//int main() {
-//	char a;
-//	cout << "Enter a character: ";
-//	cin >> a;
-//	if (a >= 65&& a<=90|| a>= 97 && a<=122){
+//void check(char a) {
+//	if (a >= 65 && a <= 90 || a >= 97 && a <= 122) {
 //		cout << "It is an alphabet";
 //	}
 //	else
 //		cout << "Not an alphabet";
+//}
+//
+//int main() {
+//	char a;
+//	cout << "Enter a character: ";
+//	cin >> a;
+//	check(a);
+//	
 //}
 
 
@@ -223,11 +229,7 @@ using namespace std;
 //	cout << "Minimum number of notes required is : "<< count;
 //}
 
-
-//int main(){
-//	int amount; int rem;
-//	cout << "Enter the amount: ";
-//	cin >> amount;
+//void notes(int amount) {
 //	while (amount != 0) {
 //		if (amount >= 500) {
 //			cout << "Number of 500 is " << amount / 500 << endl;
@@ -237,7 +239,7 @@ using namespace std;
 //			cout << " Number of 200 is " << amount / 200 << endl;
 //			amount = amount % 200;
 //		}
-//		else if(amount>=100){
+//		else if (amount >= 100) {
 //			cout << " Number of 100 is " << amount / 100 << endl;
 //			amount = amount % 100;
 //		}
@@ -251,7 +253,7 @@ using namespace std;
 //			cout << " Number of 20 is " << amount / 20 << endl;
 //			amount = amount % 20;
 //		}
-//		else if (amount >= 10){
+//		else if (amount >= 10) {
 //
 //			cout << " Number of 10 is " << amount / 10 << endl;
 //			amount = amount % 10;
@@ -266,12 +268,19 @@ using namespace std;
 //			cout << " Number of 2 is " << amount / 2 << endl;
 //			amount = amount % 2;
 //		}
-//		else if (amount>=1){
+//		else if (amount >= 1) {
 //
 //			cout << " Number of 1 is " << amount / 1 << endl;
 //			amount = amount % 1;
 //		}
 //	}
+//}
+//int main(){
+//	int amount; int rem;
+//	cout << "Enter the amount: ";
+//	cin >> amount;
+//	notes(amount);
+//	
 //	}
 
 //------------------------------------------------------------------------------------------------------------
@@ -309,13 +318,30 @@ using namespace std;
 
 //#include <iostream>
 //using namespace std;
+//void primefactors(int num) {
+//	int  i = 2;
+//	while (num > 1) {
+//		int flag = 0;
+//		while (num % i==0) {
+//			if (flag != 1) {
+//				cout << i << " ";
+//				flag = 1;
+//			}
+//			num = num / i;
+//			
+//		}
+//		i++;
+//	}
+//}
 //int main()
 //{
 //	int number, i = 2;
 //	cout << "enter any number: ";
 //	cin >> number;
 //	cout << "Prime factors of " << number << "  are: ";
-//	while (number > 1)
+//	primefactors(number);
+//	
+//	/*while (number > 1)
 //	{
 //		bool printed = false;
 //		while (number % i == 0)
@@ -329,7 +355,7 @@ using namespace std;
 //			continue;
 //		}
 //		i = i + 1;
-//	}
+//	}*/
 //	return 0;
 //
 //}
