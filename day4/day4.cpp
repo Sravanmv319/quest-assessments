@@ -39,19 +39,23 @@ using namespace std;
 
 //Sum of digits -2
 
+int sum(int num) {
+	int sum = 0;
+	while (num != 0) {
+		sum = sum + num % 10;
+		num = num / 10;
+	}
+	return sum;
+}
 
+int main() {
+	int num;
 
-//int main() {
-//	int num;
-//	int sum = 0;
-//	cout << "Enter a number: ";
-//	cin >> num;
-//	while (num != 0) {
-//		sum = sum + num % 10;
-//		num = num / 10;
-//	}
-//	cout << "Sum of digits is : " << sum;
-//}
+	cout << "Enter a number: ";
+	cin >> num;
+	int total=sum(num);
+	cout << "Sum of digits is : " << total;
+}
 
 //--------------------------------------------------------------------------------------------------
 
