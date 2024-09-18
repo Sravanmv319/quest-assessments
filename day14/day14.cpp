@@ -82,18 +82,18 @@ using namespace std;
 //}
 
 //swapping
-void swap(int &a, int &b) {
-	a = a + b;
-	b = a - b;
-	a = a - b;
-	cout << a << " " << b;
-
-}
-int main() {
-	int a, b;
-	cin >> a >> b;
-	swap(a, b);
-}
+//void swap(int &a, int &b) {
+//	a = a + b;
+//	b = a - b;
+//	a = a - b;
+//
+//}
+//int main() {
+//	int a, b;
+//	cin >> a >> b;
+//	swap(a, b);
+//	cout << a << " " << b;
+//}
 
 //date
 //void date(string n = "11", string s = "September", string year = "2024") {
@@ -106,7 +106,7 @@ int main() {
 //}
 
 //area of shapes
-//void area(string s, int a = 0, int b = 0) {
+//void area(string s, double a = 0, double b = 0, double pi =3.14)  {
 //	if (s == "square") {
 //		cout << a * a;
 //	}
@@ -115,7 +115,7 @@ int main() {
 //	}
 //	else if (s == "circle") {
 //
-//		cout << 3.14 * a * a;
+//		cout << pi * a * a;
 //
 //	}
 //	else if (s == "triangle") {
@@ -124,7 +124,7 @@ int main() {
 //}
 //int main() {
 //	string s;
-//	int a, b, r, h;
+//	double a, b, r, h;
 //	cin >> s;
 //	if (s == "square") {
 //		
@@ -166,9 +166,8 @@ int main() {
 //}
 
 //
-//void employeeDetails1(int id=1, string position="Graduate Engineer", int age = 22, string name = "Sravan")
+//void employeeDetails1(string name = "Name",int id=00, string position="NA", int age = 00 )
 //{
-//	cout << "Details of employee " << name << " are" << endl;
 //	cout << "Name :" << name << endl;
 //	cout << "Id :" << id << endl;
 //	cout << "Position :" << position << endl;
@@ -180,6 +179,37 @@ int main() {
 //{
 //	string name, pos;
 //	int id, age;
-//	employeeDetails1();
+//	employeeDetails1("Sravan");
 //	return 0;
 //}
+
+
+//
+//void print(int array[]) {
+//	for (int i = 0; i < 3; i++) {
+//			cout << array[i]<<" ";
+//		
+//
+//	}
+//
+//}
+//int main() {
+//	
+//	int array[3];
+//	for (int i = 0; i < 3; i++) {
+//		cin >> array[i];
+//
+//	}
+//	print(array);
+//}
+ #include <iostream>
+       using namespace std;
+        #include <iostream>
+       using namespace std;
+       int main()
+       {
+            int arr[] = {4, 5, 6, 7};
+            int *p = (arr + 1);
+            cout << *arr + 9;
+            return 0;
+       }
