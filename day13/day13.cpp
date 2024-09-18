@@ -36,28 +36,44 @@ using namespace std;
 //----------------------------------------------------------------------------------------------------
 
 //convert string into integer
-//void convert(char* s) {
-//	int l = strlen(s);
-//	int a = 0;
-//	
-//	for (int i = 0; i < l; i++) {
-//		if (s[i] >= '0' && s[i] <= '9') {
-//			a= a*10 +  s[i] - '0';
-//		}
-//		/*else {
-//			a = a*10 + s[i];
-//		}*/
-//	}
-//
-//		cout << a;
-//}
-//int main() {
-//	char s[100];
-//	cout << "Enter a String: ";
-//	cin >> s;
-//	convert(s);
-//
-//}
+void convert(char* s) {
+	int l = strlen(s);
+	int a = 0;
+	if (s[0] == '-') {
+		for (int i = 1; i < l; i++) {
+
+			if (s[i] >= '0' && s[i] <= '9') {
+				a = a * 10 + s[i] - '0';
+			}
+			/*else {
+				a = a*10 + s[i];
+			}*/
+			
+		}
+		a = -a;
+		cout << a;
+	}
+	else {
+		for (int i = 0; i < l; i++) {
+
+			if (s[i] >= '0' && s[i] <= '9') {
+				a = a * 10 + s[i] - '0';
+			}
+			/*else {
+				a = a*10 + s[i];
+			}*/
+		}
+
+		cout << a;
+	}
+}
+int main() {
+	char s[100];
+	cout << "Enter a String: ";
+	cin >> s;
+	convert(s);
+
+}
 
 
 
@@ -114,30 +130,33 @@ using namespace std;
 
 //----------------------------------------------------------------------------------------------------
 //sorting string
-void sort(char* s) {
-	int l = strlen(s);
-	for (int i = 0; i < l; i++) {
-		if (s[i] >= 65 && s[i] <= 90) {
-			s[i] = s[i] + 32;
-		}
-	}
-	for(int i = 0; i < l; i++) {
-		for (int j = 0; j < l-1-i; j++) {
-			
-			
-			if (s[j] > s[j+1]) {
-				char temp = s[j+1];
-				s[j+1] = s[j];
-				s[j] = temp;;
-
-
-			}
-		}
-	}
-	cout <<"Sorted : "<< s;
-}
-int main() {
-	char s[100];
-	cin >> s;
-	sort(s);
-}
+//void sort(char* s) {
+//	int l = strlen(s);
+//	for (int i = 0; i < l; i++) {
+//		if (s[i] >= 65 && s[i] <= 90) {
+//			s[i] = s[i] + 32;
+//			
+//		};
+//		cout << s[i];
+//	}
+//	cout << endl;
+//	for(int i = 0; i < l; i++) {
+//		for (int j = 0; j < l-1-i; j++) {
+//			
+//			
+//			if (s[j] > s[j+1]) {
+//				char temp = s[j+1];
+//				s[j+1] = s[j];
+//				s[j] = temp;;
+//
+//
+//			}
+//		}
+//	}
+//	cout <<"Sorted : "<< s;
+//}
+//int main() {
+//	char s[100];
+//	cin >> s;
+//	sort(s);
+//}
