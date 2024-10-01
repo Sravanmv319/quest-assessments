@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QTA\\polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09A3DF26-0F5D-4737-BA02-1BB38FFFABFE}|polymorphism.vcxproj|D:\\QTA\\polymorphism\\thispointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09A3DF26-0F5D-4737-BA02-1BB38FFFABFE}|polymorphism.vcxproj|solutionrelative:thispointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A3DF26-0F5D-4737-BA02-1BB38FFFABFE}|polymorphism.vcxproj|D:\\QTA\\polymorphism\\arrayofpoiner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09A3DF26-0F5D-4737-BA02-1BB38FFFABFE}|polymorphism.vcxproj|solutionrelative:arrayofpoiner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A3DF26-0F5D-4737-BA02-1BB38FFFABFE}|polymorphism.vcxproj|D:\\QTA\\polymorphism\\polymorphism.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09A3DF26-0F5D-4737-BA02-1BB38FFFABFE}|polymorphism.vcxproj|solutionrelative:polymorphism.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A3DF26-0F5D-4737-BA02-1BB38FFFABFE}|polymorphism.vcxproj|D:\\QTA\\polymorphism\\pointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09A3DF26-0F5D-4737-BA02-1BB38FFFABFE}|polymorphism.vcxproj|solutionrelative:pointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "thispointer.cpp",
+              "DocumentMoniker": "D:\\QTA\\polymorphism\\thispointer.cpp",
+              "RelativeDocumentMoniker": "thispointer.cpp",
+              "ToolTip": "D:\\QTA\\polymorphism\\thispointer.cpp",
+              "RelativeToolTip": "thispointer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T12:35:54.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "arrayofpoiner.cpp",
+              "DocumentMoniker": "D:\\QTA\\polymorphism\\arrayofpoiner.cpp",
+              "RelativeDocumentMoniker": "arrayofpoiner.cpp",
+              "ToolTip": "D:\\QTA\\polymorphism\\arrayofpoiner.cpp",
+              "RelativeToolTip": "arrayofpoiner.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvzYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T11:42:12.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pointers.cpp",
+              "DocumentMoniker": "D:\\QTA\\polymorphism\\pointers.cpp",
+              "RelativeDocumentMoniker": "pointers.cpp",
+              "ToolTip": "D:\\QTA\\polymorphism\\pointers.cpp",
+              "RelativeToolTip": "pointers.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T08:49:45.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "polymorphism.cpp",
+              "DocumentMoniker": "D:\\QTA\\polymorphism\\polymorphism.cpp",
+              "RelativeDocumentMoniker": "polymorphism.cpp",
+              "ToolTip": "D:\\QTA\\polymorphism\\polymorphism.cpp",
+              "RelativeToolTip": "polymorphism.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T08:44:35.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

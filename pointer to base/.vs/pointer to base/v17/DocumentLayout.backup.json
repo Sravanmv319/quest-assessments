@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QTA\\pointer to base\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42948061-E5E1-4402-84E3-9606BAB1AE2B}|pointer to base.vcxproj|D:\\QTA\\pointer to base\\virtual.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42948061-E5E1-4402-84E3-9606BAB1AE2B}|pointer to base.vcxproj|solutionrelative:virtual.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42948061-E5E1-4402-84E3-9606BAB1AE2B}|pointer to base.vcxproj|D:\\QTA\\pointer to base\\override.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42948061-E5E1-4402-84E3-9606BAB1AE2B}|pointer to base.vcxproj|solutionrelative:override.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42948061-E5E1-4402-84E3-9606BAB1AE2B}|pointer to base.vcxproj|D:\\QTA\\pointer to base\\scenarios.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42948061-E5E1-4402-84E3-9606BAB1AE2B}|pointer to base.vcxproj|solutionrelative:scenarios.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42948061-E5E1-4402-84E3-9606BAB1AE2B}|pointer to base.vcxproj|D:\\QTA\\pointer to base\\base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42948061-E5E1-4402-84E3-9606BAB1AE2B}|pointer to base.vcxproj|solutionrelative:base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "scenarios.cpp",
+              "DocumentMoniker": "D:\\QTA\\pointer to base\\scenarios.cpp",
+              "RelativeDocumentMoniker": "scenarios.cpp",
+              "ToolTip": "D:\\QTA\\pointer to base\\scenarios.cpp",
+              "RelativeToolTip": "scenarios.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T03:25:17.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "override.cpp",
+              "DocumentMoniker": "D:\\QTA\\pointer to base\\override.cpp",
+              "RelativeDocumentMoniker": "override.cpp",
+              "ToolTip": "D:\\QTA\\pointer to base\\override.cpp*",
+              "RelativeToolTip": "override.cpp*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T02:32:19.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "virtual.cpp",
+              "DocumentMoniker": "D:\\QTA\\pointer to base\\virtual.cpp",
+              "RelativeDocumentMoniker": "virtual.cpp",
+              "ToolTip": "D:\\QTA\\pointer to base\\virtual.cpp",
+              "RelativeToolTip": "virtual.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T19:44:08.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "base.cpp",
+              "DocumentMoniker": "D:\\QTA\\pointer to base\\base.cpp",
+              "RelativeDocumentMoniker": "base.cpp",
+              "ToolTip": "D:\\QTA\\pointer to base\\base.cpp",
+              "RelativeToolTip": "base.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T18:20:53.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

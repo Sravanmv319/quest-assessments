@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QTA\\inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76494F77-4C9B-4771-AB6F-2FD6141EA4EF}|inheritance.vcxproj|D:\\QTA\\inheritance\\contructorinheritance2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76494F77-4C9B-4771-AB6F-2FD6141EA4EF}|inheritance.vcxproj|solutionrelative:contructorinheritance2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76494F77-4C9B-4771-AB6F-2FD6141EA4EF}|inheritance.vcxproj|D:\\QTA\\inheritance\\constructorinheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76494F77-4C9B-4771-AB6F-2FD6141EA4EF}|inheritance.vcxproj|solutionrelative:constructorinheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76494F77-4C9B-4771-AB6F-2FD6141EA4EF}|inheritance.vcxproj|D:\\QTA\\inheritance\\singleinheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76494F77-4C9B-4771-AB6F-2FD6141EA4EF}|inheritance.vcxproj|solutionrelative:singleinheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76494F77-4C9B-4771-AB6F-2FD6141EA4EF}|inheritance.vcxproj|D:\\QTA\\inheritance\\virtualbase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76494F77-4C9B-4771-AB6F-2FD6141EA4EF}|inheritance.vcxproj|solutionrelative:virtualbase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76494F77-4C9B-4771-AB6F-2FD6141EA4EF}|inheritance.vcxproj|D:\\QTA\\inheritance\\hybrid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76494F77-4C9B-4771-AB6F-2FD6141EA4EF}|inheritance.vcxproj|solutionrelative:hybrid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76494F77-4C9B-4771-AB6F-2FD6141EA4EF}|inheritance.vcxproj|D:\\QTA\\inheritance\\multilevel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76494F77-4C9B-4771-AB6F-2FD6141EA4EF}|inheritance.vcxproj|solutionrelative:multilevel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76494F77-4C9B-4771-AB6F-2FD6141EA4EF}|inheritance.vcxproj|D:\\QTA\\inheritance\\multipleinheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76494F77-4C9B-4771-AB6F-2FD6141EA4EF}|inheritance.vcxproj|solutionrelative:multipleinheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contructorinheritance2.cpp",
+              "DocumentMoniker": "D:\\QTA\\inheritance\\contructorinheritance2.cpp",
+              "RelativeDocumentMoniker": "contructorinheritance2.cpp",
+              "ToolTip": "D:\\QTA\\inheritance\\contructorinheritance2.cpp",
+              "RelativeToolTip": "contructorinheritance2.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T04:11:51.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "constructorinheritance.cpp",
+              "DocumentMoniker": "D:\\QTA\\inheritance\\constructorinheritance.cpp",
+              "RelativeDocumentMoniker": "constructorinheritance.cpp",
+              "ToolTip": "D:\\QTA\\inheritance\\constructorinheritance.cpp",
+              "RelativeToolTip": "constructorinheritance.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvzAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T03:54:10.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "multipleinheritance.cpp",
+              "DocumentMoniker": "D:\\QTA\\inheritance\\multipleinheritance.cpp",
+              "RelativeDocumentMoniker": "multipleinheritance.cpp",
+              "ToolTip": "D:\\QTA\\inheritance\\multipleinheritance.cpp",
+              "RelativeToolTip": "multipleinheritance.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvyYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-29T19:17:43.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "singleinheritance.cpp",
+              "DocumentMoniker": "D:\\QTA\\inheritance\\singleinheritance.cpp",
+              "RelativeDocumentMoniker": "singleinheritance.cpp",
+              "ToolTip": "D:\\QTA\\inheritance\\singleinheritance.cpp",
+              "RelativeToolTip": "singleinheritance.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T19:58:58.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "hybrid.cpp",
+              "DocumentMoniker": "D:\\QTA\\inheritance\\hybrid.cpp",
+              "RelativeDocumentMoniker": "hybrid.cpp",
+              "ToolTip": "D:\\QTA\\inheritance\\hybrid.cpp",
+              "RelativeToolTip": "hybrid.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAADwv1IAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-29T19:32:24.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "virtualbase.cpp",
+              "DocumentMoniker": "D:\\QTA\\inheritance\\virtualbase.cpp",
+              "RelativeDocumentMoniker": "virtualbase.cpp",
+              "ToolTip": "D:\\QTA\\inheritance\\virtualbase.cpp",
+              "RelativeToolTip": "virtualbase.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAADwv1IAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-29T19:40:54.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "multilevel.cpp",
+              "DocumentMoniker": "D:\\QTA\\inheritance\\multilevel.cpp",
+              "RelativeDocumentMoniker": "multilevel.cpp",
+              "ToolTip": "D:\\QTA\\inheritance\\multilevel.cpp",
+              "RelativeToolTip": "multilevel.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T20:39:16.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

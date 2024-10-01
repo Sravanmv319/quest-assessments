@@ -1,0 +1,4 @@
+This program shows how to read
+the article inside a file
+with prefix the number of line.
+Thank you.

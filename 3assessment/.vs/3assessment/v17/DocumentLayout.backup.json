@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QTA\\3assessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14FD022F-B59D-4ECF-B695-5588A313F105}|3assessment.vcxproj|D:\\QTA\\3assessment\\hotelreservation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14FD022F-B59D-4ECF-B695-5588A313F105}|3assessment.vcxproj|solutionrelative:hotelreservation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FD022F-B59D-4ECF-B695-5588A313F105}|3assessment.vcxproj|D:\\QTA\\3assessment\\onlineshopping.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14FD022F-B59D-4ECF-B695-5588A313F105}|3assessment.vcxproj|solutionrelative:onlineshopping.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FD022F-B59D-4ECF-B695-5588A313F105}|3assessment.vcxproj|D:\\QTA\\3assessment\\room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14FD022F-B59D-4ECF-B695-5588A313F105}|3assessment.vcxproj|solutionrelative:room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "room.cpp",
+              "DocumentMoniker": "D:\\QTA\\3assessment\\room.cpp",
+              "RelativeDocumentMoniker": "room.cpp",
+              "ToolTip": "D:\\QTA\\3assessment\\room.cpp",
+              "RelativeToolTip": "room.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T10:27:32.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hotelreservation.cpp",
+              "DocumentMoniker": "D:\\QTA\\3assessment\\hotelreservation.cpp",
+              "RelativeDocumentMoniker": "hotelreservation.cpp",
+              "ToolTip": "D:\\QTA\\3assessment\\hotelreservation.cpp*",
+              "RelativeToolTip": "hotelreservation.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T08:30:29.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "onlineshopping.cpp",
+              "DocumentMoniker": "D:\\QTA\\3assessment\\onlineshopping.cpp",
+              "RelativeDocumentMoniker": "onlineshopping.cpp",
+              "ToolTip": "D:\\QTA\\3assessment\\onlineshopping.cpp*",
+              "RelativeToolTip": "onlineshopping.cpp*",
+              "ViewState": "AgIAALQAAAAAAAAAAAAuwNQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T08:25:24.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
